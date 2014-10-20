@@ -1,0 +1,12 @@
+{
+  "name": "stanza.io-superfeedr",
+  "version": "1.0.0",
+  "description": "Superfeedr extension for stanza.io",
+  "main": "index.js",
+  "keywords": [
+    "stanza.io",
+    "superfeedr"
+  ],
+  "author": "Lance Stout <lance@andyet.net>",
+  "license": "MIT"
+}
