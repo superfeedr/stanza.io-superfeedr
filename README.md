@@ -14,7 +14,7 @@ client.connect();
 // ...
 ```
 
-## API
+## Methods
 
 ```javascript
 // 1. Add feed
