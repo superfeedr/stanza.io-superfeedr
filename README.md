@@ -1,5 +1,9 @@
 # stanza.io-superfeedr
 
+## Requirements
+
+Requires [stanza.io](https://github.com/otalk/stanza.io) version `6.6.x` or greater.
+
 ## Setting up
 
 ```javascript
